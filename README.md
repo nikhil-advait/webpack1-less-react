@@ -1,3 +1,8 @@
+Note: This project is modified version of https://github.com/ruanyf/react-babel-webpack-boilerplate
+I have removed linting and added less support.
+You can see below what changes I made - 
+https://github.com/nikhilyeole1/webpack1-less-react/commits?author=nikhilyeole1
+
 This repo is a boilerplate for React-Babel-Webpack project. You could use it as a base to build your own web app.
 
 ## Features
